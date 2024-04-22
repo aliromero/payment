@@ -85,7 +85,7 @@
     ],
     "repositories": [
         {
-            "type": "git",
+            "type": "vcs",
             "url": "https://github.com/aliromero/multipay.git"
         }
     ],
@@ -130,5 +130,7 @@
     },
     "config": {
         "sort-packages": true
-    }
+    },
+    "minimum-stability": "dev"
+
 }
