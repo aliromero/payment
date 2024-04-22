@@ -85,7 +85,7 @@
     ],
     "repositories": [
         {
-            "type": "vcs",
+            "type": "git",
             "url": "https://github.com/aliromero/multipay.git"
         }
     ],
